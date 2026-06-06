@@ -1,6 +1,5 @@
 ## تصاویر نرم‌افزار
 
-![صفحه اصلی](./images/screenshot1.png)
 ![نمونه خروجی فاکتور](./image.png "پیش‌نمایش برنامه")---
 
 # Invoice Generator – Professional Invoice Management System
