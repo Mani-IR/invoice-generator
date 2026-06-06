@@ -1,0 +1,4 @@
+python -m database.product_repo   
+ python -m database.db  
+
+ python -m gui.app

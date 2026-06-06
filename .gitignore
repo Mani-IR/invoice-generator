@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# Database (فایل دیتابیس نباید آپلود بشه!)
+*.db
+*.sqlite
+*.sqlite3
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Output files (فایل‌های خروجی)
+output/
+*.html
+*.pdf
+
+# Sensitive data
+.env
+config/local_settings.py
+
+# Logs
+*.log
